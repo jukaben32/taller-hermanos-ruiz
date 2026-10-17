@@ -1,0 +1,6 @@
+{
+  "name": "Hermanos Ruiz · Taller Mecánico San Fermín",
+  "description": "Taller mecánico en San Fermín y Usera (Madrid). Presupuesto cerrado antes de tocar tu coche, 26 años de experiencia, mecánica general, diagnosis y cita directa por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
